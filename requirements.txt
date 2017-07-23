@@ -1,0 +1,4 @@
+Django==1.11.3
+django-hosts==2.0
+djangorestframework==3.6.3
+pytz==2017.2
